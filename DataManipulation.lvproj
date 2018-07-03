@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="13008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -13,32 +14,30 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="source" Type="Folder">
 			<Item Name="TypeDescriptor" Type="Folder">
-				<Item Name="TypeDescriptor_GetDefault.vi" Type="VI" URL="../source/TypeDescriptor/TypeDescriptor_GetDefault.vi"/>
-				<Item Name="TypeDescriptor_GetName.vi" Type="VI" URL="../source/TypeDescriptor/TypeDescriptor_GetName.vi"/>
-				<Item Name="TypeDescriptor_GetPString.vi" Type="VI" URL="../source/TypeDescriptor/TypeDescriptor_GetPString.vi"/>
-				<Item Name="TypeDescriptor_GetType.vi" Type="VI" URL="../source/TypeDescriptor/TypeDescriptor_GetType.vi"/>
-				<Item Name="TypeDescriptor_ListElementNames.vi" Type="VI" URL="../source/TypeDescriptor/TypeDescriptor_ListElementNames.vi"/>
-				<Item Name="TypeDescriptor_SetName.vi" Type="VI" URL="../source/TypeDescriptor/TypeDescriptor_SetName.vi"/>
+				<Item Name="OpenDescriptor.lvlib" Type="Library" URL="../source/TypeDescriptor/OpenDescriptor.lvlib"/>
 			</Item>
 			<Item Name="Variant" Type="Folder">
-				<Item Name="Variant_BuildArrayFromFlattenedData.vi" Type="VI" URL="../source/Variant/Variant_BuildArrayFromFlattenedData.vi"/>
-				<Item Name="Variant_ElementsToCluster.vi" Type="VI" URL="../source/Variant/Variant_ElementsToCluster.vi"/>
-				<Item Name="Variant_ExtractArrayElements.vi" Type="VI" URL="../source/Variant/Variant_ExtractArrayElements.vi"/>
-				<Item Name="Variant_ExtractClusterElements.vi" Type="VI" URL="../source/Variant/Variant_ExtractClusterElements.vi"/>
-				<Item Name="Variant_GetArrayElementTypeDescriptor.vi" Type="VI" URL="../source/Variant/Variant_GetArrayElementTypeDescriptor.vi"/>
+				<Item Name="OpenVariant.lvlib" Type="Library" URL="../source/Variant/OpenVariant.lvlib"/>
 			</Item>
 			<Item Name="KVP Parser.vi" Type="VI" URL="../source/KVP Parser.vi"/>
 		</Item>
 		<Item Name="tests" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="test_DefaultDatatype.vi" Type="VI" URL="../tests/test_DefaultDatatype.vi"/>
 			<Item Name="test_fastcast.vi" Type="VI" URL="../tests/test_fastcast.vi"/>
 			<Item Name="test_GetArrayElements.vi" Type="VI" URL="../tests/test_GetArrayElements.vi"/>
 			<Item Name="test_GetElements.vi" Type="VI" URL="../tests/test_GetElements.vi"/>
 			<Item Name="test_GetName.vi" Type="VI" URL="../tests/test_GetName.vi"/>
+			<Item Name="test_SetName.vi" Type="VI" URL="../tests/test_SetName.vi"/>
 			<Item Name="test_nameCluster.vi" Type="VI" URL="../tests/test_nameCluster.vi"/>
 			<Item Name="test_Path.vi" Type="VI" URL="../tests/test_Path.vi"/>
 			<Item Name="test_RefnumName.vi" Type="VI" URL="../tests/test_RefnumName.vi"/>
 			<Item Name="test_ReplaceClusterData.vi" Type="VI" URL="../tests/test_ReplaceClusterData.vi"/>
+		</Item>
+		<Item Name="benchmarks" Type="Folder">
+			<Item Name="Benchmark_GetName.vi" Type="VI" URL="../benchmarks/Benchmark_GetName.vi"/>
+			<Item Name="Benchmark_SetName.vi" Type="VI" URL="../benchmarks/Benchmark_SetName.vi"/>
+			<Item Name="Benchmark_ExtractClusterElements.vi" Type="VI" URL="../benchmarks/Benchmark_ExtractClusterElements.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
