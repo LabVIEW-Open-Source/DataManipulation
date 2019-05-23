@@ -30,6 +30,7 @@
 			<Item Name="test_GetName.vi" Type="VI" URL="../tests/test_GetName.vi"/>
 			<Item Name="test_SetName.vi" Type="VI" URL="../tests/test_SetName.vi"/>
 			<Item Name="test_nameCluster.vi" Type="VI" URL="../tests/test_nameCluster.vi"/>
+			<Item Name="test_clusterWithEnums.vi" Type="VI" URL="../tests/test_clusterWithEnums.vi"/>
 			<Item Name="test_Path.vi" Type="VI" URL="../tests/test_Path.vi"/>
 			<Item Name="test_RefnumName.vi" Type="VI" URL="../tests/test_RefnumName.vi"/>
 			<Item Name="test_ReplaceClusterData.vi" Type="VI" URL="../tests/test_ReplaceClusterData.vi"/>
