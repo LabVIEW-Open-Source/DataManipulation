@@ -34,6 +34,7 @@
 			<Item Name="test_Path.vi" Type="VI" URL="../tests/test_Path.vi"/>
 			<Item Name="test_RefnumName.vi" Type="VI" URL="../tests/test_RefnumName.vi"/>
 			<Item Name="test_ReplaceClusterData.vi" Type="VI" URL="../tests/test_ReplaceClusterData.vi"/>
+			<Item Name="test_extractnamesEventRegistrationRefnum.vi" Type="VI" URL="../tests/test_extractnamesEventRegistrationRefnum.vi"/>
 		</Item>
 		<Item Name="benchmarks" Type="Folder">
 			<Item Name="Benchmark_GetName.vi" Type="VI" URL="../benchmarks/Benchmark_GetName.vi"/>

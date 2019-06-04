@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2019-05-26 10:08:34" Creator="Francois Normandin" Comments="" ID="8213440204f6193eae081d54a3272b74">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2019-06-04 19:16:49" Creator="Francois Normandin" Comments="" ID="8f6ed645d48cfd756a4a19bd8db1a969">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Open_Source_lib_Data_Manipulation</Package_File_Name>
-    <Library_Version>1.1.0.5</Library_Version>
+    <Library_Version>1.1.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>_built-packages</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Francois Normandin</Packager>
       <URL>https://github.com/LabVIEW-Open-Source</URL>
-      <Release_Notes>Addition of support for unnamed Cluster to typed Cluster in KVP Parser</Release_Notes>
+      <Release_Notes>Addition of support for List Element Names from Event Registration Refnum</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -238,7 +238,7 @@
         <Path>source\TypeDescriptor</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1918D446500FD2521AB6085CCF785D5D</GUID>
+      <GUID>35A803262C55EC4A9A5E85D31125CA7B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -357,7 +357,7 @@
         <Path>source\Variant\Variant_GetArrayElementTypeDescriptor.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>62C5D871510F3CF18B79CB1EAEE61F20</GUID>
+      <GUID>02865DA40949C6CE038FA7ACF0B7C3ED</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +462,7 @@
         <Path>source\TypeDescriptor\TypeDescriptor_GetPString.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6BD474E093D7FDD324759A2C785BB65E</GUID>
+      <GUID>E22F559D0EC39EF9C50B7675664B9A9F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
