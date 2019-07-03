@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2019-07-01 17:14:47" Creator="Francois Normandin" Comments="" ID="a64b3b0c1e66e631ba2fb88ae6d0fdea">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2019-07-03 19:06:01" Creator="Francois Normandin" Comments="" ID="6d75a2675faa0a011ffca3193a3896b6">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Open_Source_lib_Data_Manipulation</Package_File_Name>
-    <Library_Version>1.2.1.8</Library_Version>
+    <Library_Version>1.2.2.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>_built-packages</Library_Output_Folder>
@@ -32,10 +32,7 @@
       <Copyright/>
       <Packager>Francois Normandin</Packager>
       <URL>https://github.com/LabVIEW-Open-Source</URL>
-      <Release_Notes>Added support to return the Event reference types (class of event) for Event Registration Refnums
-- support for Controls, Panes, Splitters, VI References and Application References.
-- fix for array of LvVariant casting into array of anything else. (KVP Parser)
-</Release_Notes>
+      <Release_Notes>- fix for array casting when no defaults are listed or when array dimension is omitted</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -241,7 +238,7 @@
         <Path>source\TypeDescriptor</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E5D2A1B71FC31F31E044DB3D28F175FD</GUID>
+      <GUID>654F3529DD5A5AD485161FE0A2A6A397</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -360,7 +357,7 @@
         <Path>source\Variant\Variant_GetArrayElementTypeDescriptor.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0A7BD006CFD11812482CD4F511C2AE6A</GUID>
+      <GUID>B1871D3DA3BB589C938B5B1CD23D76DC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -465,7 +462,7 @@
         <Path>source\TypeDescriptor\TypeDescriptor_GetPString.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>805677F00D8E595E5AD24EA027719125</GUID>
+      <GUID>6EC47B68182162B83C93F62DF7E05068</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
