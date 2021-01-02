@@ -19,6 +19,9 @@
 			<Item Name="Variant" Type="Folder">
 				<Item Name="OpenVariant.lvlib" Type="Library" URL="../source/Variant/OpenVariant.lvlib"/>
 			</Item>
+			<Item Name="Conversions" Type="Folder">
+				<Item Name="OpenConvert.lvlib" Type="Library" URL="../source/Conversions/OpenConvert.lvlib"/>
+			</Item>
 			<Item Name="KVP Parser.vi" Type="VI" URL="../source/KVP Parser.vi"/>
 		</Item>
 		<Item Name="tests" Type="Folder">
