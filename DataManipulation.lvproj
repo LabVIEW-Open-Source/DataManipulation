@@ -23,6 +23,7 @@
 				<Item Name="OpenConvert.lvlib" Type="Library" URL="../source/Conversions/OpenConvert.lvlib"/>
 			</Item>
 			<Item Name="KVP Parser.vi" Type="VI" URL="../source/KVP Parser.vi"/>
+			<Item Name="KVP to Variant.vi" Type="VI" URL="../source/KVP to Variant.vi"/>
 		</Item>
 		<Item Name="tests" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -69,6 +70,8 @@
 				<Item Name="Type Descriptor I16.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/GetType.llb/Type Descriptor I16.ctl"/>
 				<Item Name="Type Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/GetType.llb/Type Enum.ctl"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

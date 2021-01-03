@@ -15,4 +15,6 @@
 	<Item Name="TypeDescriptor_GetPString.vi" Type="VI" URL="../TypeDescriptor_GetPString.vi"/>
 	<Item Name="TypeDescriptor_GetRefClassName.vi" Type="VI" URL="../TypeDescriptor_GetRefClassName.vi"/>
 	<Item Name="TypeDescriptor_GetType.vi" Type="VI" URL="../TypeDescriptor_GetType.vi"/>
+	<Item Name="TypeDescriptor_ExtractElements.vi" Type="VI" URL="../TypeDescriptor_ExtractElements.vi"/>
+	<Item Name="Descriptor Element -- cluster.ctl" Type="VI" URL="../Descriptor Element -- cluster.ctl"/>
 </Library>

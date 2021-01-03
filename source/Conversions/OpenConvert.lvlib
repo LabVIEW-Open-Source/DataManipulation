@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Path to String.vi" Type="VI" URL="../Path to String.vi"/>
 	<Item Name="String to Path.vi" Type="VI" URL="../String to Path.vi"/>
+	<Item Name="Segments to String.vi" Type="VI" URL="../Segments to String.vi"/>
+	<Item Name="String to Segments.vi" Type="VI" URL="../String to Segments.vi"/>
 </Library>

@@ -16,4 +16,9 @@
 	<Item Name="Variant_ExtractArrayElements.vi" Type="VI" URL="../Variant_ExtractArrayElements.vi"/>
 	<Item Name="Variant_BuildArrayFromElementArray.vi" Type="VI" URL="../Variant_BuildArrayFromElementArray.vi"/>
 	<Item Name="Variant_GetArrayElementTypeDescriptor.vi" Type="VI" URL="../Variant_GetArrayElementTypeDescriptor.vi"/>
+	<Item Name="Variant_AppendElementToCluster.vi" Type="VI" URL="../Variant_AppendElementToCluster.vi"/>
+	<Item Name="Variant_EmptyCluster.vi" Type="VI" URL="../Variant_EmptyCluster.vi"/>
+	<Item Name="Variant_InsertElementIntoCluster.vi" Type="VI" URL="../Variant_InsertElementIntoCluster.vi"/>
+	<Item Name="Variant_UpdateElements.vi" Type="VI" URL="../Variant_UpdateElements.vi"/>
+	<Item Name="Variant to KVP.vi" Type="VI" URL="../Variant to KVP.vi"/>
 </Library>
