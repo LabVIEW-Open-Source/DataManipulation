@@ -23,7 +23,6 @@
 				<Item Name="OpenConvert.lvlib" Type="Library" URL="../source/Conversions/OpenConvert.lvlib"/>
 			</Item>
 			<Item Name="KVP Parser.vi" Type="VI" URL="../source/KVP Parser.vi"/>
-			<Item Name="KVP to Variant.vi" Type="VI" URL="../source/KVP to Variant.vi"/>
 		</Item>
 		<Item Name="tests" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
