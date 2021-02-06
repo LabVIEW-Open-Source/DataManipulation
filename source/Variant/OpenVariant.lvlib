@@ -12,13 +12,16 @@
 	<Item Name="Variant_SetName.vi" Type="VI" URL="../Variant_SetName.vi"/>
 	<Item Name="Variant_ListElements.vi" Type="VI" URL="../Variant_ListElements.vi"/>
 	<Item Name="Variant_ExtractClusterElements.vi" Type="VI" URL="../Variant_ExtractClusterElements.vi"/>
+	<Item Name="Variant_ExtractClusterElementByName.vi" Type="VI" URL="../Variant_ExtractClusterElementByName.vi"/>
 	<Item Name="Variant_BuildClusterFromElementArray.vi" Type="VI" URL="../Variant_BuildClusterFromElementArray.vi"/>
+	<Item Name="Variant_InsertElementIntoCluster.vi" Type="VI" URL="../Variant_InsertElementIntoCluster.vi"/>
+	<Item Name="Variant_MergeElements.vi" Type="VI" URL="../Variant_MergeElements.vi"/>
 	<Item Name="Variant_ExtractArrayElements.vi" Type="VI" URL="../Variant_ExtractArrayElements.vi"/>
 	<Item Name="Variant_BuildArrayFromElementArray.vi" Type="VI" URL="../Variant_BuildArrayFromElementArray.vi"/>
 	<Item Name="Variant_GetArrayElementTypeDescriptor.vi" Type="VI" URL="../Variant_GetArrayElementTypeDescriptor.vi"/>
 	<Item Name="Variant_AppendElementToCluster.vi" Type="VI" URL="../Variant_AppendElementToCluster.vi"/>
 	<Item Name="Variant_EmptyCluster.vi" Type="VI" URL="../Variant_EmptyCluster.vi"/>
-	<Item Name="Variant_InsertElementIntoCluster.vi" Type="VI" URL="../Variant_InsertElementIntoCluster.vi"/>
-	<Item Name="Variant_UpdateElements.vi" Type="VI" URL="../Variant_UpdateElements.vi"/>
+	<Item Name="Variant_CreateEmptyNestedCluster.vi" Type="VI" URL="../Variant_CreateEmptyNestedCluster.vi"/>
 	<Item Name="Variant to KVP.vi" Type="VI" URL="../Variant to KVP.vi"/>
+	<Item Name="KVP to Variant.vi" Type="VI" URL="../KVP to Variant.vi"/>
 </Library>
