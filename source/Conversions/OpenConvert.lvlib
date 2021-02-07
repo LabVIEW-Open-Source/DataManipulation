@@ -9,4 +9,10 @@
 	<Item Name="String to Path.vi" Type="VI" URL="../String to Path.vi"/>
 	<Item Name="Segments to String.vi" Type="VI" URL="../Segments to String.vi"/>
 	<Item Name="String to Segments.vi" Type="VI" URL="../String to Segments.vi"/>
+	<Item Name="Split Namespace.vi" Type="VI" URL="../Split Namespace.vi"/>
+	<Item Name="Flattened Path to Path.vi" Type="VI" URL="../Flattened Path to Path.vi"/>
+	<Item Name="Flattened Array to Flattened Elements.vi" Type="VI" URL="../Flattened Array to Flattened Elements.vi"/>
+	<Item Name="Flattened String to String.vi" Type="VI" URL="../Flattened String to String.vi"/>
+	<Item Name="Flattened nD-Array to Flattened 1D-Array.vi" Type="VI" URL="../Flattened nD-Array to Flattened 1D-Array.vi"/>
+	<Item Name="Flattened Cluster to Flattened Elements.vi" Type="VI" URL="../Flattened Cluster to Flattened Elements.vi"/>
 </Library>
