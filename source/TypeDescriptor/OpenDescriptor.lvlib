@@ -25,4 +25,5 @@
 	<Item Name="TypeDescriptor_GetRefClassName.vi" Type="VI" URL="../TypeDescriptor_GetRefClassName.vi"/>
 	<Item Name="TypeDescriptor_GetType.vi" Type="VI" URL="../TypeDescriptor_GetType.vi"/>
 	<Item Name="TypeDescriptor_ExtractDescriptorElements.vi" Type="VI" URL="../TypeDescriptor_ExtractDescriptorElements.vi"/>
+	<Item Name="TypeDescriptor_GetUnits.vi" Type="VI" URL="../TypeDescriptor_GetUnits.vi"/>
 </Library>
