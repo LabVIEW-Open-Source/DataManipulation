@@ -49,7 +49,9 @@
 			<Item Name="Benchmark_GetName.vi" Type="VI" URL="../benchmarks/Benchmark_GetName.vi"/>
 			<Item Name="Benchmark_SetName.vi" Type="VI" URL="../benchmarks/Benchmark_SetName.vi"/>
 			<Item Name="Benchmark_ExtractClusterElements.vi" Type="VI" URL="../benchmarks/Benchmark_ExtractClusterElements.vi"/>
+			<Item Name="Benchmark_BuildClusterWithNames.vi" Type="VI" URL="../benchmarks/Benchmark_BuildClusterWithNames.vi"/>
 		</Item>
+		<Item Name="examples" Type="Folder"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="DTbl Empty Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Empty Digital.vi"/>
