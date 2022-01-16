@@ -27,7 +27,9 @@
 			<Item Name="StringFormatter" Type="Folder">
 				<Item Name="OpenStringFormatter.lvlib" Type="Library" URL="../source/StringFormatter/OpenStringFormatter.lvlib"/>
 			</Item>
-			<Item Name="KVP Parser.vi" Type="VI" URL="../source/KVP Parser.vi"/>
+			<Item Name="Deprecated (backward compatibility)" Type="Folder">
+				<Item Name="KVP Parser.vi" Type="VI" URL="../source/KVP Parser.vi"/>
+			</Item>
 		</Item>
 		<Item Name="tests" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -47,7 +49,8 @@
 			<Item Name="test_Variant to KVP.vi" Type="VI" URL="../tests/test_Variant to KVP.vi"/>
 			<Item Name="test_KVP to Variant.vi" Type="VI" URL="../tests/test_KVP to Variant.vi"/>
 			<Item Name="test KVP Arrays.vi" Type="VI" URL="../tests/test KVP Arrays.vi"/>
-			<Item Name="RUN ALL TESTS.vi" Type="VI" URL="../tests/RUN ALL TESTS.vi"/>
+			<Item Name="test KVP (Standard) Arrays.vi" Type="VI" URL="../tests/test KVP (Standard) Arrays.vi"/>
+			<Item Name="test OpenScalar.vi" Type="VI" URL="../tests/test OpenScalar.vi"/>
 		</Item>
 		<Item Name="benchmarks" Type="Folder">
 			<Item Name="Benchmark_GetName.vi" Type="VI" URL="../benchmarks/Benchmark_GetName.vi"/>
@@ -60,7 +63,6 @@
 			<Item Name="OpenVariant Tree Example.vi" Type="VI" URL="../examples/OpenVariant Tree Example.vi"/>
 			<Item Name="OpenStringFormatter Example.vi" Type="VI" URL="../examples/OpenStringFormatter Example.vi"/>
 		</Item>
-		<Item Name="test OpenScalar.vi" Type="VI" URL="../tests/test OpenScalar.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="DTbl Empty Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Empty Digital.vi"/>
