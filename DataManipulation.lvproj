@@ -51,6 +51,7 @@
 			<Item Name="test KVP Arrays.vi" Type="VI" URL="../tests/test KVP Arrays.vi"/>
 			<Item Name="test KVP (Standard) Arrays.vi" Type="VI" URL="../tests/test KVP (Standard) Arrays.vi"/>
 			<Item Name="test OpenScalar.vi" Type="VI" URL="../tests/test OpenScalar.vi"/>
+			<Item Name="RUN ALL TESTS.vi" Type="VI" URL="../tests/RUN ALL TESTS.vi"/>
 		</Item>
 		<Item Name="benchmarks" Type="Folder">
 			<Item Name="Benchmark_GetName.vi" Type="VI" URL="../benchmarks/Benchmark_GetName.vi"/>
