@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2022-01-16 13:50:29" Creator="Francois Normandin" Comments="" ID="752dd757ac853493e10e0235b378f948">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-06-04 19:50:03" Modified_Date="2022-01-16 16:59:58" Creator="Francois Normandin" Comments="" ID="8c3ec2c8915aa1cb3abcf6f2fcc404e3">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Open_Source_lib_Data_Manipulation</Package_File_Name>
-    <Library_Version>1.5.0.15</Library_Version>
+    <Library_Version>1.5.0.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>_built-packages</Library_Output_Folder>
@@ -37,7 +37,8 @@
       <Release_Notes>[Feature #6] KVP Parser now uses openScalar methods for string conversions, and cluster/array are now streamlined
 [Feature #8] KVP Parser and KVP to Strict Variant have been replaced by methods enforcing Dot notation for decimals, leaving a copy of existing methods intact for backward compatibility
 [Feature #9] OpenScalar library includes Scalar to String and String to Scalar for all floating types
-[Feature #10] Added a Get System Decimal Separator method</Release_Notes>
+[Feature #10] Added a Get System Decimal Separator method
+[Fix #11] Cluster maps correctly when comparing directly with cluster from unnamed elements</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -272,7 +273,7 @@
         <Path>source\Scalar</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EF92B72458EFD37E29F74802058F5932</GUID>
+      <GUID>050858E22A00894B06CDC00B6349F3E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -545,7 +546,7 @@
         <Path>source\Variant\Variant_FormatToString.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DEAE4925D2C8BB20FBA779ADC14B12C3</GUID>
+      <GUID>3D35FB38774CD1B3F4C1F8323054B03A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -650,7 +651,7 @@
         <Path>source\TypeDescriptor\TypeDescriptor_GetName.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C8193188505DF3054C433877EF100E51</GUID>
+      <GUID>AFFC759E1A8CDFEFEE13938AEBF6DBAC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -783,7 +784,7 @@
         <Path>source\Variant\Variant_KVP to Strict Variant (Standard).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC37B6E7E3DD4A867B2363FEB8BD36D8</GUID>
+      <GUID>F124F8448742D657E282339D84C8089D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -986,7 +987,7 @@
         <Path>source\Scalar\String to ExtendedComplex (Scalar).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9F608D0F2AE2DF26D35D36719A201FB6</GUID>
+      <GUID>966515080FE93530E49C7A39F09DD8BF</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
