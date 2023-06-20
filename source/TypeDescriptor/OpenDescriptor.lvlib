@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!):!!!*Q(C=\&gt;7R=&gt;N!%)8B"Y]#J_T!QR;W"&lt;&lt;!&amp;L9&amp;/F3)&amp;D:6S"9YIQJ?#WS"M40ZP^.;&gt;G)BE4Q?D1Y[C(AYX(Y[A*!UWV@J4E^&lt;\@OLD@00I`YS&gt;JR:FO88`FX/&lt;^4@]']U@&lt;&lt;0^L(&lt;`?;8Y.W`"YP'CYBO?N'4(BJFHURO=J/&lt;X/1G,`)C,`)C,`)C4`)E4`)E4`)E$`)A$`)A$`)AHROZS%5O=ECGO#FE*D54G-&amp;1:(&lt;'9TT'9TQ=SHC-RXC-RXA9)O-R(O-R(O0B-BG0]2C0]2A05UW*ZU;/RXC98I7H]"3?QF.Y++H#5Q#+9M8%R31Q6*QM0B3?QF.Y_+D#5XA+4_%J0*R7Y3E]B;@Q&amp;"YOG;N35T-W=DR-I]34?"*0YEE]4+X%EXA34_**0*24YEE]#3)JG%Q/1=F&amp;S9$E)0%E(HYJ]33?R*.Y%A_HZBX+O4*$-T:S0)%H]!3?Q".YG%+"*`!%HM!4?*B7A3@Q"*\!%XAIJ=!4?!*0!!G+5F\":-'&amp;Q;!A#$T]T+=FZFWK+9GZ3@XQKB^+^=/G@ID5$Y@[JKNPJPIGK2&gt;@P;DKR6)PAPK05[06'(52^=6DI'\ML`1,`5R@[3@[E8[A\_G\=?E&lt;$\T&gt;&lt;LJ?L\J=,DK@TVL86;@43=@D59@$1@P^8LP&gt;\O5V])XNZ98Q`&amp;[[Z`0D$SU0[_]_DE@_$`Y``Q@P2HX2HT69IZ`^3(90!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+<Library LVVersion="20008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!):!!!*Q(C=\&gt;7R=&gt;N!%)8B"Y]#J_T!QR;W"&lt;&lt;!&amp;L9&amp;/F3)&amp;D:6S"9YIQJ?#WS"M40ZP^.;&gt;G)BE4Q?D1Y[C(AYX(Y[A*!UWV@J4E^&lt;\@OLD@00I`YS&gt;JR:FO88`FX/&lt;^4@]']U@&lt;&lt;0^L(&lt;`?;8Y.W`"YP'CYBO?N'4(BJFHURO=J/&lt;X/1G,`)C,`)C,`)C4`)E4`)E4`)E$`)A$`)A$`)AHROZS%5O=ECGO#FE*D54G-&amp;1:(&lt;'9TT'9TQ=SHC-RXC-RXA9)O-R(O-R(O0B-BG0]2C0]2A05UW*ZU;/RXC98I7H]"3?QF.Y++H#5Q#+9M8%R31Q6*QM0B3?QF.Y_+D#5XA+4_%J0*R7Y3E]B;@Q&amp;"YOG;N35T-W=DR-I]34?"*0YEE]4+X%EXA34_**0*24YEE]#3)JG%Q/1=F&amp;S9$E)0%E(HYJ]33?R*.Y%A_HZBX+O4*$-T:S0)%H]!3?Q".YG%+"*`!%HM!4?*B7A3@Q"*\!%XAIJ=!4?!*0!!G+5F\":-'&amp;Q;!A#$T]T+=FZFWK+9GZ3@XQKB^+^=/G@ID5$Y@[JKNPJPIGK2&gt;@P;DKR6)PAPK05[06'(52^=6DI'\ML`1,`5R@[3@[E8[A\_G\=?E&lt;$\T&gt;&lt;LJ?L\J=,DK@TVL86;@43=@D59@$1@P^8LP&gt;\O5V])XNZ98Q`&amp;[[Z`0D$SU0[_]_DE@_$`Y``Q@P2HX2HT69IZ`^3(90!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -16,6 +16,12 @@
 		<Item Name="DescriptorElementsToVariantCluster.vi" Type="VI" URL="../DescriptorElementsToVariantCluster.vi"/>
 		<Item Name="DescriptorToVariant.vi" Type="VI" URL="../DescriptorToVariant.vi"/>
 		<Item Name="OpenDescriptor -- cluster.ctl" Type="VI" URL="../OpenDescriptor -- cluster.ctl"/>
+	</Item>
+	<Item Name="private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Flattened Array to Flattened Elements.vi" Type="VI" URL="../Flattened Array to Flattened Elements.vi"/>
+		<Item Name="Flattened nD-Array to Flattened 1D-Array.vi" Type="VI" URL="../Flattened nD-Array to Flattened 1D-Array.vi"/>
+		<Item Name="Flattened String to String.vi" Type="VI" URL="../Flattened String to String.vi"/>
 	</Item>
 	<Item Name="TypeDescriptor_GetName.vi" Type="VI" URL="../TypeDescriptor_GetName.vi"/>
 	<Item Name="TypeDescriptor_SetName.vi" Type="VI" URL="../TypeDescriptor_SetName.vi"/>
