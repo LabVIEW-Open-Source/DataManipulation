@@ -26,7 +26,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{2AA478B9-9332-45BA-8A4F-B79158F96594}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">bitwiseOps.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls/bitwiseOps.lvlibp</Property>

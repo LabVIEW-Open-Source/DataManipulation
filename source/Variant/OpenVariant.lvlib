@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)O!!!*Q(C=\&gt;7R&lt;2N"%)8B&gt;Y9$J_R!9/35?)E,9!NM96JAKP!SR^/"Q1I-M)6JA9!L9!PSP]O"&lt;-!S[-!W$%.\7IJ]?TP\;?^YEG:\*\X6U\WWW_W_P@OBX=;8U8YWTMT&lt;_%M6RPD3YS^6_)8Z^^;`Y\`4^.J?W``&gt;(O^_#@\Y^W$2?"$2CZ\UI&amp;NDW;=C,`)C,`)C,`)E4`)E4`)E4`)A$`)A$`)A$X+4G^TE*D?ZS?&gt;",H+2CRR3M8CR5&amp;'U+&amp;#=$%8&amp;3_%J0)7H]0"2B;@Q&amp;*\#5XAY297H]"3?QF.YG+&lt;#5XA+4_%J0*3;EJI(/:\#1XEFHM34?"*0YG&amp;**:Y%E#S7&amp;%[+Q&amp;!SG,R*0)EH]@"7C3@R**\%EXA96O**0)EH]31?JMR&gt;S;E:"TE?SCDQ"*\!%XA#$[56?!*0Y!E]A9@F&amp;(A#4Y!)&amp;AS+1V!Q+4AB_""Y!A_`&amp;(A#4_!*0)'(I8G&amp;9O\-U)S$()`R')`R')`R5%,'9TT'9TT'1VE:D`%9D`%9$UP*?)T(?!T%,-LS-M8-2(/3#9S(HXGX?&amp;[FH",01_K&lt;6XV4KG]W^5WEPDH5&amp;VV^-&gt;583&lt;XZ[EV6&lt;Z:[%^2`H"KNRKA855]?*_L+[Y6_JJ`I+`V)0^$X^#V^-[&lt;_ZB/PV[MOFYP/Z\./JZ07&gt;&gt;8R?.4B=."_P^&gt;WO^6GMXF_$$RQ0$]1&lt;M_FDV_UL!^;0H`1]OH^\@@Y00+`]0`Z(XAW[IW_8Y-^_AL=KEC0!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+<Library LVVersion="20008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)O!!!*Q(C=\&gt;7R&lt;2N"%)8B&gt;Y9$J_R!9/35?)E,9!NM96JAKP!SR^/"Q1I-M)6JA9!L9!PSP]O"&lt;-!S[-!W$%.\7IJ]?TP\;?^YEG:\*\X6U\WWW_W_P@OBX=;8U8YWTMT&lt;_%M6RPD3YS^6_)8Z^^;`Y\`4^.J?W``&gt;(O^_#@\Y^W$2?"$2CZ\UI&amp;NDW;=C,`)C,`)C,`)E4`)E4`)E4`)A$`)A$`)A$X+4G^TE*D?ZS?&gt;",H+2CRR3M8CR5&amp;'U+&amp;#=$%8&amp;3_%J0)7H]0"2B;@Q&amp;*\#5XAY297H]"3?QF.YG+&lt;#5XA+4_%J0*3;EJI(/:\#1XEFHM34?"*0YG&amp;**:Y%E#S7&amp;%[+Q&amp;!SG,R*0)EH]@"7C3@R**\%EXA96O**0)EH]31?JMR&gt;S;E:"TE?SCDQ"*\!%XA#$[56?!*0Y!E]A9@F&amp;(A#4Y!)&amp;AS+1V!Q+4AB_""Y!A_`&amp;(A#4_!*0)'(I8G&amp;9O\-U)S$()`R')`R')`R5%,'9TT'9TT'1VE:D`%9D`%9$UP*?)T(?!T%,-LS-M8-2(/3#9S(HXGX?&amp;[FH",01_K&lt;6XV4KG]W^5WEPDH5&amp;VV^-&gt;583&lt;XZ[EV6&lt;Z:[%^2`H"KNRKA855]?*_L+[Y6_JJ`I+`V)0^$X^#V^-[&lt;_ZB/PV[MOFYP/Z\./JZ07&gt;&gt;8R?.4B=."_P^&gt;WO^6GMXF_$$RQ0$]1&lt;M_FDV_UL!^;0H`1]OH^\@@Y00+`]0`Z(XAW[IW_8Y-^_AL=KEC0!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -38,4 +38,5 @@
 	<Item Name="Tree to KVP.vi" Type="VI" URL="../Tree to KVP.vi"/>
 	<Item Name="KVP Parser (Standard).vi" Type="VI" URL="../KVP Parser (Standard).vi"/>
 	<Item Name="Variant_FormatToString.vi" Type="VI" URL="../Variant_FormatToString.vi"/>
+	<Item Name="_data_manipulation_openvariant.mnu" Type="Document" URL="../_data_manipulation_openvariant.mnu"/>
 </Library>

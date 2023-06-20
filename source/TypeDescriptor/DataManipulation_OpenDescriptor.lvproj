@@ -45,7 +45,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{4CC88621-2F4D-42AA-9BEE-265576F418D7}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OpenDescriptor.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls/OpenDescriptor.lvlibp</Property>

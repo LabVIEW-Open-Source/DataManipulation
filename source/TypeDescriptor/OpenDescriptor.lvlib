@@ -34,4 +34,5 @@
 	<Item Name="TypeDescriptor_GetUnits.vi" Type="VI" URL="../TypeDescriptor_GetUnits.vi"/>
 	<Item Name="TypeDescriptor_GetDataLengthFromType.vi" Type="VI" URL="../TypeDescriptor_GetDataLengthFromType.vi"/>
 	<Item Name="TypeDescriptor_GetArrayElementTypeDescriptor.vi" Type="VI" URL="../TypeDescriptor_GetArrayElementTypeDescriptor.vi"/>
+	<Item Name="_data_manipulation_descriptor.mnu" Type="Document" URL="../_data_manipulation_descriptor.mnu"/>
 </Library>

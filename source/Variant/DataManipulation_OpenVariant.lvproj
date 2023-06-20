@@ -40,6 +40,7 @@
 				<Item Name="TypeDescriptor_GetUnits.vi" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetUnits.vi"/>
 				<Item Name="TypeDescriptor_GetDataLengthFromType.vi" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetDataLengthFromType.vi"/>
 				<Item Name="TypeDescriptor_GetArrayElementTypeDescriptor.vi" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetArrayElementTypeDescriptor.vi"/>
+				<Item Name="_data_manipulation_descriptor.mnu" Type="Document" URL="../../../_built_ppls/OpenDescriptor.lvlibp/_data_manipulation_descriptor.mnu"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="../../../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="TD_Refnum Kind.ctl" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Refnum Kind.ctl"/>
@@ -73,6 +74,7 @@
 				<Item Name="String to SingleComplex (Scalar).vi" Type="VI" URL="../../../_built_ppls/OpenScalar.lvlibp/String to SingleComplex (Scalar).vi"/>
 				<Item Name="String to DoubleComplex (Scalar).vi" Type="VI" URL="../../../_built_ppls/OpenScalar.lvlibp/String to DoubleComplex (Scalar).vi"/>
 				<Item Name="String to ExtendedComplex (Scalar).vi" Type="VI" URL="../../../_built_ppls/OpenScalar.lvlibp/String to ExtendedComplex (Scalar).vi"/>
+				<Item Name="_data_manipulation_scalar.mnu" Type="Document" URL="../../../_built_ppls/OpenScalar.lvlibp/_data_manipulation_scalar.mnu"/>
 			</Item>
 			<Item Name="OpenConvert.lvlibp" Type="LVLibp" URL="../../../_built_ppls/OpenConvert.lvlibp">
 				<Item Name="Path to String.vi" Type="VI" URL="../../../_built_ppls/OpenConvert.lvlibp/Path to String.vi"/>
@@ -85,6 +87,7 @@
 				<Item Name="Flattened String to String.vi" Type="VI" URL="../../../_built_ppls/OpenConvert.lvlibp/Flattened String to String.vi"/>
 				<Item Name="Flattened nD-Array to Flattened 1D-Array.vi" Type="VI" URL="../../../_built_ppls/OpenConvert.lvlibp/Flattened nD-Array to Flattened 1D-Array.vi"/>
 				<Item Name="Flattened Cluster to Flattened Elements.vi" Type="VI" URL="../../../_built_ppls/OpenConvert.lvlibp/Flattened Cluster to Flattened Elements.vi"/>
+				<Item Name="_data_manipulation_conversion.mnu" Type="Document" URL="../../../_built_ppls/OpenConvert.lvlibp/_data_manipulation_conversion.mnu"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../_built_ppls/OpenConvert.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../../_built_ppls/OpenConvert.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="TD_Length.ctl" Type="VI" URL="../../../_built_ppls/OpenConvert.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Length.ctl"/>
@@ -148,7 +151,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{955A9130-23C9-4E53-9AAD-96CB8CA068D3}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OpenVariant.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls/OpenVariant.lvlibp</Property>
@@ -160,7 +163,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{197D4A3F-26DF-4C41-98E5-3FF15655F174}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{268ED733-C763-4ADF-B8FE-A401FF9BF7DC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/OpenVariant.lvlib</Property>

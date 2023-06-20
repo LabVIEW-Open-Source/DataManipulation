@@ -40,6 +40,7 @@
 				<Item Name="TypeDescriptor_GetUnits.vi" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetUnits.vi"/>
 				<Item Name="TypeDescriptor_GetDataLengthFromType.vi" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetDataLengthFromType.vi"/>
 				<Item Name="TypeDescriptor_GetArrayElementTypeDescriptor.vi" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetArrayElementTypeDescriptor.vi"/>
+				<Item Name="_data_manipulation_descriptor.mnu" Type="Document" URL="../../../_built_ppls/OpenDescriptor.lvlibp/_data_manipulation_descriptor.mnu"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="../../../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="TD_Refnum Kind.ctl" Type="VI" URL="../../../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Refnum Kind.ctl"/>
@@ -87,7 +88,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1A8CB704-694D-42F8-B4C3-F750733E6AB4}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">OpenConvert.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Repositories/LVOS/DataManipulation/_built_ppls/OpenConvert.lvlibp</Property>
