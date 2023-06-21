@@ -1,0 +1,8 @@
+OpenStringFormatter:
+    name: OpenStringFormatter
+    source: OpenStringFormatter.lvlib
+    version: 1.0.0
+    dependencies: 
+        - OpenConvert:
+            version: '>= 1.0.0'
+    target: ./OpenStringFormatter.lvlibp

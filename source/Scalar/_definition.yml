@@ -1,0 +1,6 @@
+OpenScalar:
+    name: OpenScalar
+    source: OpenScalar.lvlib
+    version: 1.0.0
+    dependencies: []
+    target: ./OpenScalar.lvlibp

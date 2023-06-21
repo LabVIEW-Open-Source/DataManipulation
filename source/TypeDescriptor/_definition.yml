@@ -1,0 +1,6 @@
+OpenDescriptor:
+    name: OpenDescriptor
+    source: OpenDescriptor.lvlib
+    version: 1.0.0
+    dependencies: []
+    target: ./OpenDescriptor.lvlibp

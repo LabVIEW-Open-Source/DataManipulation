@@ -1,0 +1,6 @@
+BitwiseOps:
+    name: BitwiseOps
+    source: bitwiseOps.lvlib
+    version: 1.0.0
+    dependencies: []
+    target: ./bitwiseOps.lvlibp

@@ -1,0 +1,10 @@
+OpenVariant:
+    name: OpenVariant
+    source: OpenVariant.lvlib
+    version: 1.0.0
+    dependencies: []
+        - OpenStringFormatter:
+            version: '>= 1.0.0'
+        - OpenScalar:
+            version: '>= 1.0.0'
+    target: ./OpenVariant.lvlibp

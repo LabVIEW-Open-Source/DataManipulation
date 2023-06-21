@@ -1,0 +1,8 @@
+OpenConvert:
+    name: OpenConvert
+    source: OpenConvert.lvlib
+    version: 1.0.0
+    dependencies: 
+        - OpenDescriptor:
+            version: '>= 1.0.0'
+    target: ./OpenConvert.lvlibp
