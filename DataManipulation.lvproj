@@ -40,9 +40,9 @@
 				<Item Name="TypeDescriptor_GetUnits.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetUnits.vi"/>
 				<Item Name="TypeDescriptor_GetDataLengthFromType.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetDataLengthFromType.vi"/>
 				<Item Name="TypeDescriptor_GetArrayElementTypeDescriptor.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/TypeDescriptor_GetArrayElementTypeDescriptor.vi"/>
+				<Item Name="_data_manipulation_descriptor.mnu" Type="Document" URL="../_built_ppls/OpenDescriptor.lvlibp/_data_manipulation_descriptor.mnu"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Trim Whitespace.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="TD_Refnum Kind.ctl" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Refnum Kind.ctl"/>
 				<Item Name="Type Descriptor I16.ctl" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/Type Descriptor I16.ctl"/>
 				<Item Name="Type Descriptor I16 Array.ctl" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/Type Descriptor I16 Array.ctl"/>
@@ -52,6 +52,7 @@
 				<Item Name="Get Type Code from I16 Array And Pos.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/Get Type Code from I16 Array And Pos.vi"/>
 				<Item Name="TD_Get Cluster Information.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Get Cluster Information.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="TD_Length.ctl" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Length.ctl"/>
 				<Item Name="TD_Get Array Information.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Get Array Information.vi"/>
 				<Item Name="TD_Create Cluster.vi" Type="VI" URL="../_built_ppls/OpenDescriptor.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Create Cluster.vi"/>
@@ -73,6 +74,7 @@
 				<Item Name="String to SingleComplex (Scalar).vi" Type="VI" URL="../_built_ppls/OpenScalar.lvlibp/String to SingleComplex (Scalar).vi"/>
 				<Item Name="String to DoubleComplex (Scalar).vi" Type="VI" URL="../_built_ppls/OpenScalar.lvlibp/String to DoubleComplex (Scalar).vi"/>
 				<Item Name="String to ExtendedComplex (Scalar).vi" Type="VI" URL="../_built_ppls/OpenScalar.lvlibp/String to ExtendedComplex (Scalar).vi"/>
+				<Item Name="_data_manipulation_scalar.mnu" Type="Document" URL="../_built_ppls/OpenScalar.lvlibp/_data_manipulation_scalar.mnu"/>
 			</Item>
 			<Item Name="OpenStringFormatter.lvlibp" Type="LVLibp" URL="../_built_ppls/OpenStringFormatter.lvlibp">
 				<Item Name="Get Type Code from I16 Array And Pos.vi" Type="VI" URL="../_built_ppls/OpenStringFormatter.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/Get Type Code from I16 Array And Pos.vi"/>
@@ -122,6 +124,7 @@
 				<Item Name="Tree to KVP.vi" Type="VI" URL="../_built_ppls/OpenVariant.lvlibp/Tree to KVP.vi"/>
 				<Item Name="KVP Parser (Standard).vi" Type="VI" URL="../_built_ppls/OpenVariant.lvlibp/KVP Parser (Standard).vi"/>
 				<Item Name="Variant_FormatToString.vi" Type="VI" URL="../_built_ppls/OpenVariant.lvlibp/Variant_FormatToString.vi"/>
+				<Item Name="_data_manipulation_openvariant.mnu" Type="Document" URL="../_built_ppls/OpenVariant.lvlibp/_data_manipulation_openvariant.mnu"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="../_built_ppls/OpenVariant.lvlibp/1abvi3w/vi.lib/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="TD_Refnum Kind.ctl" Type="VI" URL="../_built_ppls/OpenVariant.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Refnum Kind.ctl"/>
 				<Item Name="Type Descriptor I16.ctl" Type="VI" URL="../_built_ppls/OpenVariant.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/Type Descriptor I16.ctl"/>
@@ -148,6 +151,7 @@
 				<Item Name="Flattened String to String.vi" Type="VI" URL="../_built_ppls/OpenConvert.lvlibp/Flattened String to String.vi"/>
 				<Item Name="Flattened nD-Array to Flattened 1D-Array.vi" Type="VI" URL="../_built_ppls/OpenConvert.lvlibp/Flattened nD-Array to Flattened 1D-Array.vi"/>
 				<Item Name="Flattened Cluster to Flattened Elements.vi" Type="VI" URL="../_built_ppls/OpenConvert.lvlibp/Flattened Cluster to Flattened Elements.vi"/>
+				<Item Name="_data_manipulation_conversion.mnu" Type="Document" URL="../_built_ppls/OpenConvert.lvlibp/_data_manipulation_conversion.mnu"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="../_built_ppls/OpenConvert.lvlibp/1abvi3w/vi.lib/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="../_built_ppls/OpenConvert.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="TD_Length.ctl" Type="VI" URL="../_built_ppls/OpenConvert.lvlibp/1abvi3w/vi.lib/Utility/GetType.llb/TD_Length.ctl"/>
@@ -198,7 +202,7 @@
 		<Item Name="Deprecated (backward compatibility)" Type="Folder">
 			<Item Name="KVP Parser.vi" Type="VI" URL="../source/KVP Parser.vi"/>
 		</Item>
-		<Item Name="__initialize_project.vi" Type="VI" URL="../__initialize_project.vi"/>
+		<Item Name="__initialize_dependencies.vi" Type="VI" URL="../__initialize_dependencies.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">1</Property>
